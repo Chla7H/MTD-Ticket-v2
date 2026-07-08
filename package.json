@@ -1,0 +1,20 @@
+{
+  "name": "MTD-Ticket-v2",
+  "version": "2.0.0",
+  "description": "Advanced V2 Ticket System for Mega Shield ®",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ticket",
+    "anticheat"
+  ],
+  "author": "Mega Shield Team",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
